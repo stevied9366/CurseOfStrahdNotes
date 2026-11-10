@@ -1,0 +1,503 @@
+{
+  "main": {
+    "id": "300ea560bd90b214",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed0a974964123fb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d90b10f8c5eb86a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/WizardofWinesWineryMap.webp"
+              },
+              "icon": "lucide-image",
+              "title": "WizardofWinesWineryMap"
+            }
+          },
+          {
+            "id": "9712f3454ba2002e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vallaki/Vallaki Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vallaki Overview"
+            }
+          },
+          {
+            "id": "155681e47db1d34c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vallaki/Vallaki Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vallaki Overview"
+            }
+          },
+          {
+            "id": "a04097133c38dcde",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "38bcb0b177aab3ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E. Village of Barovia/Barovia Locations/E2. Blood of the Vine Tavern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E2. Blood of the Vine Tavern"
+            }
+          },
+          {
+            "id": "4fefe1194af337e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bc3a6c1db598316e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d0da15eef25f4443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E. Village of Barovia/Barovia Locations/E5. Church.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E5. Church"
+            }
+          },
+          {
+            "id": "bebabee29f441ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E. Village of Barovia/Barovia Locations/E6. Cemetery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E6. Cemetery"
+            }
+          },
+          {
+            "id": "ceacf997a55e20b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Y. Yester Hill.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Y. Yester Hill"
+            }
+          },
+          {
+            "id": "3b8ffe9938285cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "W. The Wizard of Wines/W. The Wizard of Wines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "W. The Wizard of Wines"
+            }
+          },
+          {
+            "id": "bd899eb9343761c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Village of Barovia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Village of Barovia"
+            }
+          },
+          {
+            "id": "6734ff4b2b6bbc62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Baba Lysaga.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baba Lysaga"
+            }
+          },
+          {
+            "id": "ff3c1a85a8e16284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vallaki/Vallaki NPCs/Danika Dorakova.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Danika Dorakova"
+            }
+          },
+          {
+            "id": "c7d67add167d4efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vallaki/Vallaki Locations/N2. Blue Water Inn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "N2. Blue Water Inn"
+            }
+          },
+          {
+            "id": "a79ff82c30483ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vallaki/Vallaki NPCs/Urwin Martikov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Urwin Martikov"
+            }
+          },
+          {
+            "id": "a88c864dbb2362da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vallaki/Vallaki Quests/Wine, Then Dine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wine, Then Dine"
+            }
+          },
+          {
+            "id": "0bc48b8e3108cfb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vallaki/Vallaki Quests/Wine, Then Dine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wine, Then Dine"
+            }
+          },
+          {
+            "id": "52b77f76c1479002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vallaki/Vallaki Locations/N2. Blue Water Inn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "N2. Blue Water Inn"
+            }
+          },
+          {
+            "id": "481e81ea91abc4d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vallaki/Vallaki Events/Festival of the Blazing Sun.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Festival of the Blazing Sun"
+            }
+          },
+          {
+            "id": "551ec6389489c91c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20261110133745.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20261110133745"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae314a6ba3b4da83",
+    "type": "split",
+    "children": [
+      {
+        "id": "c505c676d1f6b1bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03e3ecb4343c81aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "97dcffc938c34152",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2921520ebee7afc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "37664a8dde740cd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "075781ace70f58b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d41bdeb8bfd60241",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Images/WizardofWinesWineryMap.webp",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "731d9796221f9998",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Images/WizardofWinesWineryMap.webp",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "51b830d121e2adbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e70b034d23246df2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "42182e7f5b3eb463",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vallaki/Vallaki NPCs/Father Lucian Petrovich.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Father Lucian Petrovich"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "03e3ecb4343c81aa",
+  "lastOpenFiles": [
+    "W. The Wizard of Wines/W. The Wizard of Wines.md",
+    "Vallaki/Vallaki Overview.md",
+    "N. Vallaki/Vallaki Locations/N5. Arasek Stockyard.md",
+    "Pasted image 20261110133745.markers.json",
+    "Pasted image 20261110133745.png",
+    "Factions/Keepers of the Feather.md",
+    "Vallaki/Vallaki Events/Festival of the Blazing Sun.md",
+    "Vallaki/Vallaki Locations/Blinsky Toys.md",
+    "Vallaki/Vallaki Locations/Burgomaster_s Mansion.md",
+    "Vallaki/Vallaki Locations/N2. Blue Water Inn.md",
+    "Vallaki/Vallaki Locations/N5. Arasek Stockyard.md",
+    "Vallaki/Vallaki Locations/N6. Coffin Maker_s Shop (Incomplete).md",
+    "Vallaki/Vallaki Locations/St. Andral_s Church.md",
+    "Vallaki/Vallaki NPCs/Blinsky.md",
+    "Y. Yester Hill.md",
+    "W. The Wizard of Wines.md",
+    "V. Van Richten_s Tower.md",
+    "Strahd von Zarovich.md",
+    "Rahadin.md",
+    "Mists of Ravenloft Effect.md",
+    "H. Tser Falls.md",
+    "G. Tser Pool Encampment.md",
+    "F. River Ivlis Crossroads.md",
+    "Davian Martikov.md",
+    "Ezmerelda d_Avenir.md",
+    "Beucephalus.md",
+    "Baba Lysaga.md",
+    "B. Gates of Barovia (W, Near Castle Ravenloft).md",
+    "Images/052-cos05-05.webp",
+    "I, J, K. Castle Ravenloft",
+    "Images/124-031.webp",
+    "Images/Pasted image 20260722133452.png",
+    "Images/Pasted image 20260722133415.png",
+    "E. Village of Barovia/Barovia Quests",
+    "E. Village of Barovia/Barovia NPCs",
+    "E. Village of Barovia/Barovia Locations",
+    "E. Village of Barovia/Barovia Events",
+    "E. Village of Barovia",
+    "Images/114-cos12-04.webp",
+    "Images/WizardofWinesWineryMap.webp",
+    "Pasted image 20260721105416.png",
+    "Images/Pasted image 20260624162014.png",
+    "Images/Pasted image 20260624152139.png",
+    "W. The Wizard of Wines",
+    "Krezk",
+    "Images/Untitled.base",
+    "Untitled.canvas"
+  ]
+}

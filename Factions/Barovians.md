@@ -1,0 +1,5 @@
+* According to the Barovian mountain folk, there was always a mist near [[Y. Yester Hill]], before the deadly mists trapped Barovia
+* The ancient folk called the mist the "Whispering Wall", for within they could hear whispers of voices from the past and the future
+* They believed an ancient god gave up his divinity to preserve the world from destruction, and that his last exhalation as a god produced this mist, within it all his memories of the world and all his visions of its possible futures
+* With proper preparation, a seeker could go on a vision quest within the Whispering Wall.
+* Some students of the arcane believe that the Dark Powers containing Strahd in Barovia took some of that fog to create the mists of Barovia, and that perhaps Strahd's domain is just a dark memory in the Whispering Wall.

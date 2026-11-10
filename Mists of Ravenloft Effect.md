@@ -1,0 +1,5 @@
+A deadly fog surrounds the land of Barovia and engulfs any creature that tries to leave. Even flying creatures are subject to the fog's effects, which are as follows:
+
+- A creature that starts its turn in the fog must succeed on a **DC 20 Constitution** **saving throw** or gain one level of [exhaustion](https://2014.5e.tools/conditionsdiseases.html#exhaustion_phb) (see [appendix A](https://2014.5e.tools/book.html#phb,11) in the [Player's Handbook](https://2014.5e.tools/book.html#phb)). This [exhaustion](https://2014.5e.tools/conditionsdiseases.html#exhaustion_phb) can't be removed while the creature is in the fog.
+- No matter how far a creature travels in the fog, or in which direction it goes, it gets turned around so that it eventually finds itself back in Barovia.
+- The area within the fog is [heavily obscured](https://2014.5e.tools/quickreference.html#bookref-quick,2,vision%20and%20light) (see "[Vision and Light](https://2014.5e.tools/quickreference.html#bookref-quick,2,vision%20and%20light)" in chapter 8 of the [Player's Handbook](https://2014.5e.tools/book.html#phb)).

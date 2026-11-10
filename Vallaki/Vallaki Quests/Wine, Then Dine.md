@@ -1,0 +1,7 @@
+
+The inn's wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue. If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what's holding up the latest shipment, promising them free room and board if they return with the wine. 
+
+| Urwin takes you aside and keeps his voice low. "My supply of wine is nearly gone, and the next shipment is overdue. I'll give you what you seek if you bring me my wine. The vineyard and winery is a few miles west of here. Just follow the Old Svalich Road and the signs." |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+Urwin fails to mention that his cantankerous father, [Davian Martikov](https://2014.5e.tools/bestiary.html#davian%20martikov_cos), owns the local winery and vineyard, the Wizard of Wines ([chapter 12](https://2014.5e.tools/adventure.html#cos,13)). There's bad blood between Urwin and his father (whom Urwin and Danika refer to as "the old crow"). Although Urwin could easily visit the winery himself, he considers dealing with his father to be a worthy test of the characters' competence, and he makes good on his promise if they complete the quest and return with his wine shipment.

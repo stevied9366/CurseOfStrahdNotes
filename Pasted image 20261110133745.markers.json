@@ -1,0 +1,49 @@
+{
+  "size": {
+    "w": 1950,
+    "h": 1200
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_rwlvj6",
+      "x": 0.8366887154284799,
+      "y": 0.6631623656966249,
+      "layer": "default",
+      "link": "N. Vallaki/Vallaki Locations/N5. Arasek Stockyard",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "Pasted image 20261110133745.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Pasted image 20261110133745.png",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}
